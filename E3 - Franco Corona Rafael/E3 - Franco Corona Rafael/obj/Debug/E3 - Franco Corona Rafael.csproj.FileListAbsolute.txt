@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\E3 - Franco Corona Rafael\E3 - Franco Corona Rafael\bin\Debug\E3 - Franco Corona Rafael.exe.config
+C:\Users\Acer\source\repos\E3 - Franco Corona Rafael\E3 - Franco Corona Rafael\bin\Debug\E3 - Franco Corona Rafael.exe
+C:\Users\Acer\source\repos\E3 - Franco Corona Rafael\E3 - Franco Corona Rafael\bin\Debug\E3 - Franco Corona Rafael.pdb
+C:\Users\Acer\source\repos\E3 - Franco Corona Rafael\E3 - Franco Corona Rafael\obj\Debug\E3 - Franco Corona Rafael.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\E3 - Franco Corona Rafael\E3 - Franco Corona Rafael\obj\Debug\E3 - Franco Corona Rafael.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\E3 - Franco Corona Rafael\E3 - Franco Corona Rafael\obj\Debug\E3 - Franco Corona Rafael.exe
+C:\Users\Acer\source\repos\E3 - Franco Corona Rafael\E3 - Franco Corona Rafael\obj\Debug\E3 - Franco Corona Rafael.pdb
