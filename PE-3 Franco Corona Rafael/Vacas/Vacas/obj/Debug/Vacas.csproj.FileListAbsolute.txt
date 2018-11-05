@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\Vacas\Vacas\bin\Debug\Vacas.exe.config
+C:\Users\Acer\source\repos\Vacas\Vacas\bin\Debug\Vacas.exe
+C:\Users\Acer\source\repos\Vacas\Vacas\bin\Debug\Vacas.pdb
+C:\Users\Acer\source\repos\Vacas\Vacas\obj\Debug\Vacas.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\Vacas\Vacas\obj\Debug\Vacas.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\Vacas\Vacas\obj\Debug\Vacas.exe
+C:\Users\Acer\source\repos\Vacas\Vacas\obj\Debug\Vacas.pdb
