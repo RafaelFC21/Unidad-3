@@ -8,15 +8,15 @@ namespace Vacas
 {
     class Operaciones
     {
-        Stack<string> Vaca = new Stack<string>();
+        Stack<string> Vaca = new Stack<string>();//Creación de las pilas para el nombre de las vacas y el tiempo.
         Stack<int> Tiempo = new Stack<int>();
         public Operaciones()
         {
-            Vaca.Push("Mazie");
+            Vaca.Push("Mazie");//Ingresando nombre de las vacas en la pila.
             Vaca.Push("Daisy");
             Vaca.Push("Crazy");
             Vaca.Push("Lazy");
-            Tiempo.Push(2);
+            Tiempo.Push(2);//Ingresando tiempo de las vacas en la pila.
             Tiempo.Push(4);
             Tiempo.Push(10);
             Tiempo.Push(20);
